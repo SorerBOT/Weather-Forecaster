@@ -1,0 +1,12 @@
+{
+  "name": "weatherforecaster",
+  "version": "1.0.0",
+  "description": "Use Markov Chains in order to forecast weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
